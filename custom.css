@@ -1,0 +1,16 @@
+/* remove rounding from cards, buttons and inputs */
+.card, .btn, .form-control { border-radius: 0; }
+.btn {
+  background-color: #6A757F;
+  color: #ffffff;
+  border: #000000;
+  
+}
+.btn:hover{
+  background: #45637F;
+}
+
+.jumbotron{
+  font-family: 'Roboto Mono', monospace;
+  background: #D6EBFF;
+}
